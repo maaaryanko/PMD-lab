@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "702334940749",
+    "firebase_url": "https://mfmanager-6eae3-default-rtdb.firebaseio.com",
+    "project_id": "mfmanager-6eae3",
+    "storage_bucket": "mfmanager-6eae3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:702334940749:android:21c2c6d5dd2d2472b2ce04",
+        "android_client_info": {
+          "package_name": "com.hongjolim.mfmanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "702334940749-lsq7687fll26qlo9c7r9bkha4icf51k6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUbGIeCN5NtcD7CmEikGu7wDHnaFXY6iM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "702334940749-lsq7687fll26qlo9c7r9bkha4icf51k6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
